@@ -1,0 +1,10 @@
+cloned_interfaces:
+    filename: cloned_interfaces-201605-1.spm
+    info:
+        description: Formula for managing cloned_interfaces.
+        minimum_version: 2015.8
+        name: cloned_interfaces
+        os: FreeBSD
+        release: 1
+        summary: Formula for managing cloned_interfaces
+        version: 201605
